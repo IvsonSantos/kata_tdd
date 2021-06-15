@@ -16,7 +16,6 @@ import lombok.Setter;
 @Table(name = "Player")
 @Getter
 @Setter
-@Builder
 @NoArgsConstructor
 public class Player {
 
